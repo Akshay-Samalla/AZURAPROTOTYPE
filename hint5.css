@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+}
+.image{
+    opacity:0.8;
+    position:fixed;
+    top: 40px;
+    margin: 0%;
+    left: 18%;
+}
+.background{
+    margin: 0%;
+    width: 100%;
+    position:fixed;
+
+}
+.he1{
+    font-size: 70px;
+    color: rgba(165, 42, 42, 0.646);
+    position: relative;
+    text-align: center;
+    top: 100px;
+        margin: 0%;
+        font-family: 'Cinzel', serif;
+}
+.he2{
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.648);
+    position: relative;
+    text-align: center;
+    top: 150px;font-family: 'Press Start 2P', cursive;
+
+}
+.he3{
+
+    position: relative;
+    text-align: center;
+    top: 200px;   
+            font-family: 'Cinzel', serif;
+}
+.h4{
+    color: rgb(0, 102, 255);
+        position: relative;
+        text-align: center;
+        top: 
+        200px;font-family: 'Cinzel', serif;
+}

@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+.h {
+    text-align: center;
+}
+
+.p {
+    font-family: 'Nunito', sans-serif;
+}
+
+.i1 {
+    position: relative;
+    border-radius: 100%;
+    width: 400px;
+    left: 35%;
+}
+
+.i2 {
+    position: relative;
+    border-radius: 100%;
+    scale: 40%;
+    size: 50;
+    left: 80px;
+    top: 0px;
+}
+
+.i3 {
+    position: relative;
+    border-radius: 100%;
+    width: 400px;
+    top: 450px;
+    left: 35%;
+}
+
+.i4 {
+    position: relative;
+    border-radius: 100%;
+    width: 400px;
+    height: 400dp;
+    left: 5%;
+    
+
+}
+
+.i5 {
+    position: relative;
+    border-radius: 100%;
+    padding-top: 600px;
+    left: 28%;
+}
+
+.background {
+    width: 100%;
+    margin: 0%;
+    position: fixed;
+    margin: 0%;
+}
+
+.information {
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    padding: 50px;
+}
+
+.quote {
+    margin: 0%;
+    text-align: center;
+    font-size: 2em;
+    color: azure;
+    text-decoration: none;
+    font-family: 'Cinzel', serif;
+}
